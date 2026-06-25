@@ -6,4 +6,4 @@ I don't necessarily have plans to port more features from the original Dark Tric
 
 ## Supported Devices
 
-I've only tested this on my Motorola RAZR+ 2025, but this module should work regardless of Android skin (AOSP/OneUI/Oxygen/etc).
+Android 15+ only. I've only tested this on my Motorola RAZR+ 2025 running Android 16, but this module should work regardless of Android skin (AOSP/OneUI/Oxygen/etc).
